@@ -14,19 +14,19 @@
 
 /* See https://github.com/Saltssaumure/synthesis-discord-theme#customisation for customisation settings. */
 :root {
-    --synth-background-image:   url(https://saltssaumure.github.io/synthesis-discord-theme/backgrounds/default.avif);
+--synth-background-image:   url(https://cdn.discordapp.com/attachments/1161954319529164831/1163778005374603295/white-outline-icosahedron-pattern-background-vector_53876-176697.jpg?ex=6540cfba&is=652e5aba&hm=4826ca19efda39de615e07584e72d0087c676c4bfac2bebb2549d5eb576ab35c&);
     --synth-backdrop-opacity:   0.3         ;
-    --synth-overlay-color:      255 165 0   ;
-    --synth-crt-light:          255 255 255 ;
+    --synth-overlay-color:      0   0   0   ;
+    --synth-crt-light:          0   0   0   ;
     --synth-crt-dark:           0   0   0   ;
     --synth-crt-flicker:        none        ;   /* This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
 
-    --synth-color-background:   20  6   36  ;
-    --synth-color-foreground:   255 165 0   ;
+    --synth-color-background:   0   0   0   ;
+    --synth-color-foreground:   144 202 249 ;
     --synth-color-shadow:       0   0   128 ;
-    --synth-color-button:       84  63  251 ;
-    --synth-color-pop:          206 63  251 ;
-    --synth-color-blurple:      88  101 242 ;
+    --synth-color-button:       0   76  153 ;
+    --synth-color-pop:          102  78  255 ;
+    --synth-color-blurple:      51  153  255 ;
     --synth-color-text:         255 255 255 ;
 
     --synth-color-red:          243 67  131 ;
