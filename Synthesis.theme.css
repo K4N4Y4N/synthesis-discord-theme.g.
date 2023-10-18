@@ -14,8 +14,8 @@
 
 /* See https://github.com/Saltssaumure/synthesis-discord-theme#customisation for customisation settings. */
 :root {
---synth-background-image:   url(https://cdn.discordapp.com/attachments/1161954319529164831/1163778005374603295/white-outline-icosahedron-pattern-background-vector_53876-176697.jpg?ex=6540cfba&is=652e5aba&hm=4826ca19efda39de615e07584e72d0087c676c4bfac2bebb2549d5eb576ab35c&);
-    --synth-backdrop-opacity:   0.3         ;
+--synth-background-image:   url(https://cdn.discordapp.com/attachments/1161954319529164831/1164208754720510013/bligongle.png?ex=654260e5&is=652febe5&hm=859ff1a8095de04e4600540ff375c04a9e61eaada4c22933ff7286130bcbd250&);
+    --synth-backdrop-opacity:   0.0         ;
     --synth-overlay-color:      0   0   0   ;
     --synth-crt-light:          0   0   0   ;
     --synth-crt-dark:           0   0   0   ;
